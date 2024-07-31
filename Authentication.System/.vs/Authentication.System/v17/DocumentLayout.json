@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\leticia\\boots-program\\authentication-system\\Authentication.System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D950900-0D89-475A-B757-ED56668C903E}|Authentication.System\\Authentication.System.csproj|d:\\leticia\\boots-program\\authentication-system\\authentication.system\\authentication.system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D950900-0D89-475A-B757-ED56668C903E}|Authentication.System\\Authentication.System.csproj|solutionrelative:authentication.system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D950900-0D89-475A-B757-ED56668C903E}|Authentication.System\\Authentication.System.csproj|d:\\leticia\\boots-program\\authentication-system\\authentication.system\\authentication.system\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D950900-0D89-475A-B757-ED56668C903E}|Authentication.System\\Authentication.System.csproj|solutionrelative:authentication.system\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D950900-0D89-475A-B757-ED56668C903E}|Authentication.System\\Authentication.System.csproj|d:\\leticia\\boots-program\\authentication-system\\authentication.system\\authentication.system\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D950900-0D89-475A-B757-ED56668C903E}|Authentication.System\\Authentication.System.csproj|solutionrelative:authentication.system\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D950900-0D89-475A-B757-ED56668C903E}|Authentication.System\\Authentication.System.csproj|d:\\leticia\\boots-program\\authentication-system\\authentication.system\\authentication.system\\authentication.system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D950900-0D89-475A-B757-ED56668C903E}|Authentication.System\\Authentication.System.csproj|solutionrelative:authentication.system\\authentication.system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\leticia\\boots-program\\authentication-system\\Authentication.System\\Authentication.System\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication.System\\Program.cs",
+              "ToolTip": "D:\\leticia\\boots-program\\authentication-system\\Authentication.System\\Authentication.System\\Program.cs",
+              "RelativeToolTip": "Authentication.System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:56:33.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\leticia\\boots-program\\authentication-system\\Authentication.System\\Authentication.System\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "Authentication.System\\Model\\Users.cs",
+              "ToolTip": "D:\\leticia\\boots-program\\authentication-system\\Authentication.System\\Authentication.System\\Model\\Users.cs",
+              "RelativeToolTip": "Authentication.System\\Model\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:53:05.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authentication.System",
+              "DocumentMoniker": "D:\\leticia\\boots-program\\authentication-system\\Authentication.System\\Authentication.System\\Authentication.System.csproj",
+              "RelativeDocumentMoniker": "Authentication.System\\Authentication.System.csproj",
+              "ToolTip": "D:\\leticia\\boots-program\\authentication-system\\Authentication.System\\Authentication.System\\Authentication.System.csproj",
+              "RelativeToolTip": "Authentication.System\\Authentication.System.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T02:52:54.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\leticia\\boots-program\\authentication-system\\Authentication.System\\Authentication.System\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Authentication.System\\Data\\DataContext.cs",
+              "ToolTip": "D:\\leticia\\boots-program\\authentication-system\\Authentication.System\\Authentication.System\\Data\\DataContext.cs",
+              "RelativeToolTip": "Authentication.System\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:47:42.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
