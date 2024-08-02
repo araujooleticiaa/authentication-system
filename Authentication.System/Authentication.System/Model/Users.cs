@@ -2,9 +2,9 @@
 {
     public class Users
     {
-        public Users(Guid id, string name, string password, string token)
+        public Users(string name, string password, string token)
         {
-            Id = id;
+            Id = Guid.NewGuid();
             Name = name;
             Password = password;
             Token = token;

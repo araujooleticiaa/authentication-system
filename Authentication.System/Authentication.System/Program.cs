@@ -1,4 +1,7 @@
 using Authentication.System.Data;
+using Authentication.System.Interface;
+using Authentication.System.Repository;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,12 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
-var conn = builder.Configuration.GetConnectionString("DefaultConnection");
-var apiKey = builder.Configuration.GetConnectionString("ApiKey");
-
-builder.Services.AddDbContext<DataContext>(options =>
-options.UseNpgsql(conn));
+builder.Services.AddScoped<IAuthentication, AuthenticationRepository>();
+builder.Services.AddDbContext<DataContext>(options => options.UseInMemoryDatabase("Teste"));
 
 var app = builder.Build();
 
